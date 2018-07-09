@@ -1,2 +1,2 @@
 # DataScience
-DataScience code
+sample codes for ITRI training
